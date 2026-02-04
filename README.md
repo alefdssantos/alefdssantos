@@ -49,11 +49,11 @@ const alef = {
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Video Downloader</h3>
       <p align="center">
         <a href="https://github.com/alefdssantos/video-downloader">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alefdssantos&repo=video-downloader&theme=default&hide_border=true"/>
+          <img src="./assets/video-downloader.png" alt="Video Downloader" width="100%" style="border-radius: 8px;"/>
         </a>
       </p>
       <p align="center">
@@ -62,18 +62,19 @@ const alef = {
         <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
       </p>
       <p align="center">
-        <sub>Fullstack video downloader para YouTube, TikTok e Twitter/X com arquitetura resiliente, circuit breaker e extensão Chrome.</sub>
+        <sub>Fullstack video downloader para YouTube, TikTok e Twitter/X com arquitetura resiliente e extensão Chrome.</sub>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">GFinance</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">GikaFinance</h3>
       <p align="center">
-        <a href="https://github.com/alefdssantos/frontend-gfinance">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alefdssantos&repo=frontend-gfinance&theme=default&hide_border=true"/>
+        <a href="https://gikafinance.app">
+          <img src="./assets/gika-finance.png" alt="GikaFinance" width="100%" style="border-radius: 8px;"/>
         </a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/WhatsApp_Bot-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
       </p>
       <p align="center">
