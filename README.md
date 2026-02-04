@@ -86,15 +86,6 @@ const alef = {
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alefdssantos&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide_rank=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefdssantos&layout=compact&hide_border=true&langs_count=6"/>
-</p>
-
----
-
 <p align="center">
   <sub>Aberto a oportunidades e colaborações</sub>
 </p>
